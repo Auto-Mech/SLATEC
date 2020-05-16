@@ -27,14 +27,14 @@ Note that the results of the `make install` in build.sh will depend on your syst
 
 ## Notice 
 
-Author:
-Giuseppe Borzi'
-e-mail: etana@tiscalinet.it
-http://web.tiscalinet.it/gborzi
-fax: +39 1782235968
+Author:  
+Giuseppe Borzi'  
+e-mail: etana@tiscalinet.it  
+http://web.tiscalinet.it/gborzi  
+fax: +39 1782235968  
 Assistant Professor at the Univ. of Messina - Italia
 
-License:
+License:  
 General Public License. Slatec is 'Freely distributable' as they say.
 
 For further details, see <http://www.netlib.org/slatec/>.
