@@ -5,8 +5,9 @@ These files are from the SLATEC Common Mathematical Library, Version 4.1, July 1
 ### Installation using Conda
 
 The most direct way to install the code is through the conda package manager.
-If you have conda installed, simply run the following command in whichever
-environment you choose:
+If you have conda installed,  
+(1) activate an environment in you wish to use to install SLATEC, and  
+(2) run the install command:
 ```
 conda install -c auto-mech slatec
 ```
